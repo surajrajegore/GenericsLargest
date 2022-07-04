@@ -16,7 +16,7 @@ public class Generics {
     }
 
     public static void main(String args[]) {
-        System.out.println("Maximum of int "+ maximum(10.0,11.0,12.0));//for float
+        System.out.println("Maximum of string is "+ maximum("Apple","peach","banana"));//for string
 
     }
 }
